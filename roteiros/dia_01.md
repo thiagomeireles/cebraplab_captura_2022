@@ -22,7 +22,7 @@ Hoje é a aula mais importante do curso, na qual trataremos de uma situação ma
 
 - [Tutorial 2](https://github.com/thiagomeireles/cebraplab_captura_2022/blob/main/tutoriais/Tutorial_02.md): Realizar a extração de qualquer conteúdo de uma página utilizando os "caminhos" dos elementos da página no código html. Aqui para  versão [Rmd](https://github.com/thiagomeireles/cebraplab_captura_2022/blob/main/tutoriais/Tutorial_02.Rmd);
 
-- [Tutorial 3](https://github.com/thiagomeireles/cebraplab_captura_2022/blob/main/tutoriais/Tutorial_01.md): Extrair informações de uma sequência páginas (ex. portal de notícias). Aqui para versão [Rmd](https://github.com/thiagomeireles/cebraplab_captura_2022/blob/main/tutoriais/Tutorial_02.Rmd)
+- [Tutorial 3](https://github.com/thiagomeireles/cebraplab_captura_2022/blob/main/tutoriais/Tutorial_03.md): Extrair informações de uma sequência páginas (ex. portal de notícias). Aqui para versão [Rmd](https://github.com/thiagomeireles/cebraplab_captura_2022/blob/main/tutoriais/Tutorial_03.Rmd)
 
 ## Links
 
