@@ -22,4 +22,6 @@ A aula de hoje está focada na mineiração de texto (*text mining*) e apesentar
 
 [Lista de presença](https://docs.google.com/spreadsheets/d/1GafIearvoWGmK01mLFRWr5KLUWuwH54I7kyMT6qGN7k/edit#gid=764662017)
 
-[Slides do segundo encontro]()
+[Slides do segundo encontro](https://github.com/thiagomeireles/cebraplab_captura_2022/blob/main/slides/cebraplab___Captura_de_dados_com_R__Dia_3_.pdf)
+
+[Cheatsheet REGEX](https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_strings.pdf)
