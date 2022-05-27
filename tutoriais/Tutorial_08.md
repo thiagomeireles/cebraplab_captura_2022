@@ -84,7 +84,7 @@ corpus_noticias <- corpus(dados_noticias$texto)
 Veja como é interessante ao pedirmos o resumo do corpus com a função `summary()`. Temos as informações básicas do que cada texto contém.
 
 ```{r}
-summary(corpus_noticias)
+summary(corpus_noticias, n = 5)
 ```
 
 Existe, também, a possibilidade de adicionarmos variáveis relacinadas a cada um dos documentos ao corpus, como tínhamos no dataframe de onde extraímos o vetor. Para isso, utilizamos a função `docvars()` do pacote *quanteda*. Acrescentaremos ao nosso corpus o título, a data e a edição da publicação.
@@ -202,7 +202,7 @@ Ainda temos a opção de concatenar expressões e mantê-las como um único recu
 
 ```{r}
 tokens(noticias[1]) %>% 
-  tokens_compound(pattern = phrase(c("segurança pública", "centro de monitoramento de câmeras")))
+  tokens_compound(pattern = phrase(c("Fernando Haddad", "ex-prefeito de São Paulo")))
 ```
 
 ### Explorando os textos do corpus
